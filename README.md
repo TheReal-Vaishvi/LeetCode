@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/TheReal-Vaishvi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/TheReal-Vaishvi/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TheReal-Vaishvi/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/TheReal-Vaishvi/LeetCode/tree/master/0029-divide-two-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/TheReal-Vaishvi/LeetCode/tree/master/0037-sudoku-solver) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/TheReal-Vaishvi/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
